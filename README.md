@@ -1,8 +1,3 @@
-# Developer - Ravi Sharma
-
-# Task
-> Payment Gateway Integration - https://ravigithub19.github.io/payment_gateway_integration/
-
 ## Table of contents
 * Homepage
 * Payment Gateway Interface
